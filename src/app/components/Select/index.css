@@ -1,0 +1,5 @@
+.selected-text {
+    width: 200px;
+    border: 1px solid black;
+    cursor: pointer
+}

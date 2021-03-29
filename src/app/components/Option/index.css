@@ -1,0 +1,5 @@
+.custom-select-option {
+    border: 1px solid black;
+    width: 200px;
+    cursor: pointer;
+}
